@@ -6,7 +6,7 @@ Welcome to the Seasonal Forecast Project, a comprehensive suite of Python script
 
 - Flexible Data Access: Our scripts facilitate direct access to the rich dataset provided by the Copernicus Climate Change Service (C3S). Users can easily adjust the geographic area of interest, ensuring that the data retrieved is perfectly tailored to their study region.
 
-- Customizable Time Frames: Whether you're interested in historic overview of the forescast data or short/long-term forecasts, the scripts allow for precise adjustment of both the incast period and the forecast horizon. This adaptability ensures that users can focus on the specific time windows that matter most to their analysis.
+- Customizable Time Frames: Whether you're interested in historic overview of the forescast data or short/long-term forecasts, the scripts allow for precise adjustment of both the hincast period and the forecast horizon. This adaptability ensures that users can focus on the specific time windows that matter most to their analysis.
 
 - Lag Adjustment: Understanding the lag in climate data is crucial for accurate forecasting. Our scripts provide the capability to adjust for lag in the data, enhancing the reliability of the forecasts used in your analysis.
 
